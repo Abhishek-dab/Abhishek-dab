@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **open source projects**
+- 🔭 I’m currently working on **Covid_Assist a flutter project**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pixel22120610" target="blank"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/Abhishek_Dab" target="blank"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://linkedin.com/in/abhishek-dabberu-4b23a51a5" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/abhishek_dabbe" target="blank">  <img src="https://img.shields.io/badge/-CodeChef-blue?style=flat-square&logo=codechef&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/abhishek_dab" target="blank"><img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/></a>
