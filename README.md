@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
-- 💬 Ask me about **c++, flutter**
+- 💬 Ask me about **C++, flutter, SQL, Data Structures & Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
