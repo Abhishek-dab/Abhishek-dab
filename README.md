@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Covid_Assist a flutter project**
+- 🔭 I’m currently working on **improving my Problem Solving Skills in data structures and algorithms**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
